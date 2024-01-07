@@ -17,7 +17,7 @@
     --> No
 
 ### Instalación exitosa
-Success! Created app-coder-1.4 at C:\Users\cecil\OneDrive\Documents\CoderHouse\Next.js\01. Fundamentos de Server Side Rendering\1.4 Primera App\app-coder-1.4
+Success! Created app-coder-1.4 at C:\...\CoderHouse\Next.js\01. Fundamentos de Server Side Rendering\1.4 Primera App\app-coder-1.4
 
 ### Inicializar la aplicación
 2. npm run dev 
